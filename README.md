@@ -1,5 +1,5 @@
 # TRIOE_servo_control_web_DEMO
-# TRIOE Servo Web Control - Beginner's Guide
+
 
 ## What This Does
 
